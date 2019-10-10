@@ -17,8 +17,8 @@ title: Coupon
 email: contact@justinechacko.in
 description: > # this means to ignore newlines until "baseurl:"
   Coupons, Promo codes, Deals.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://coupon.justinechacko.in" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/coupon" # the subpath of your site, e.g. /blog
+url: "https://bsde1234.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Build settings
